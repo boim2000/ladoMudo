@@ -10,7 +10,7 @@ pkg install git
 
 git clone https://github.com/boim2000/ladoMudo
 
-cd lado
+cd ladoMudo
 
 php lado.php
 
