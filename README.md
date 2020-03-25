@@ -8,12 +8,9 @@ pkg install curl
 
 pkg install git
 
-git clone https://github.com/ipanxcool/alammhd
+git clone https://github.com/boim2000/ladoMudo
 
-cd alammhd
+cd lado
 
-php claim.php
+php lado.php
 
-
-Biar lebih jelas bisa di lihat di 
-https://youtu.be/Emj9i3Q5J90
